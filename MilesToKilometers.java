@@ -17,7 +17,7 @@ _______________________________________________________________
 
 public class MilesToKilometers
    {
-      // Example: private double stuff;
+      // Member Data
 	  private double miles;
 	  private double kilometers;
 	   /*
